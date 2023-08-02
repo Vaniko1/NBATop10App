@@ -3,7 +3,8 @@
 ## Overview
 The NBA Top 10 Mobile Application is a Java-based application that provides users with information about the all-time top 10 players in points, assists, rebounds, and steals in the National Basketball Association (NBA). It aims to give basketball enthusiasts easy access to historical player statistics and achievements in these four major statistical categories.
 
-![app1](https://github.com/Vaniko1/NBATop10App/assets/115501603/ca55305f-8b15-4395-b67e-5379f6b8190d)
+![app3_](https://github.com/Vaniko1/NBATop10App/assets/115501603/5c0548de-8919-49c4-a27a-38df1d2701b3)
+
 
 ## Features
 
@@ -13,6 +14,7 @@ The NBA Top 10 Mobile Application is a Java-based application that provides user
 * Steals: Discover the top 10 NBA players with the most career steals.
 * User-friendly Interface: The application is designed with an intuitive and easy-to-use interface for smooth user navigation.
 
+![app2_](https://github.com/Vaniko1/NBATop10App/assets/115501603/acd113dc-279c-4525-9146-8fd2395e9063)
 
 ## Technologies Used
 
